@@ -37,7 +37,9 @@ Data Science, problem solving, and building practical projects.
 [![LeetCode](https://img.shields.io/badge/LeetCode-SowmyaNKumar-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/SowmyaNKumar/)
 
 <!-- LEETCODE-STATS:START -->
-**LeetCode statistics will be added here automatically.**
+
+![Sowmya's LeetCode Stats](https://leetcode.gasinski.dev/svg/SowmyaNKumar?theme=nord)
+
 <!-- LEETCODE-STATS:END -->
 
 ---
