@@ -38,7 +38,7 @@ Data Science, problem solving, and building practical projects.
 
 <!-- LEETCODE-STATS:START -->
 
-![LeetCode Stats](https://github-readme-leetcode-stats.vercel.app/api/card?username=SowmyaNKumar)
+
 
 <!-- LEETCODE-STATS:END -->
 
