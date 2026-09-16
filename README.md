@@ -38,7 +38,7 @@ Data Science, problem solving, and building practical projects.
 
 <!-- LEETCODE-STATS:START -->
 
-![Sowmya's LeetCode Stats](https://leetcode.gasinski.dev/svg/SowmyaNKumar?theme=nord)
+![LeetCode Stats](https://github-readme-leetcode-stats.vercel.app/api/card?username=SowmyaNKumar)
 
 <!-- LEETCODE-STATS:END -->
 
