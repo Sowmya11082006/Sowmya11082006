@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="220">
+  <rect width="100%" height="100%" rx="15" fill="#0d1117"/>
+  <text x="35" y="45" font-family="Arial" font-size="24" fill="#ffffff">
+    LeetCode Stats
+  </text>
+
+  <text x="35" y="90" font-family="Arial" font-size="20" fill="#ffffff">
+    Problems Solved: 52
+  </text>
+
+  <text x="35" y="130" font-family="Arial" font-size="17" fill="#00b8a9">
+    Easy: 18
+  </text>
+
+  <text x="220" y="130" font-family="Arial" font-size="17" fill="#ffc01e">
+    Medium: 31
+  </text>
+
+  <text x="430" y="130" font-family="Arial" font-size="17" fill="#ef4743">
+    Hard: 3
+  </text>
+
+  <text x="35" y="180" font-family="Arial" font-size="14" fill="#8b949e">
+    Updated automatically from LeetCode
+  </text>
+</svg>
