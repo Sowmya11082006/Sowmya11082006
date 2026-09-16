@@ -1,6 +1,6 @@
 # Hi, I'm Sowmya 👋
 
-### Computer Science Engineering Student | DSA | Data Science | Software Development
+### Computer Science Engineering Student | DSA | Software Development
 
 
 I'm a 3rd-year Computer Science Engineering student interested in
@@ -8,7 +8,7 @@ Data Science, problem solving, and building practical projects.
 
 - 🎓 CSE Student
 - 🧠 Practicing DSA on LeetCode
-- 🐍 Learning Python for Data Science
+- 🐍 Learning Python for ML
 - 📊 Improving my SQL and data analysis skills
 - 🚀 Building projects and participating in hackathons
 ---
@@ -99,5 +99,4 @@ Collaborative hackathon/project repository.
 DSA              █████░░░░░  Learning & Practicing
 Python           ██████░░░░  Developing
 SQL              █████░░░░░  Practicing
-Data Science     ████░░░░░░  Learning
 Web Development  █████░░░░░  Building Projects
