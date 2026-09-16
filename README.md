@@ -38,7 +38,7 @@ Data Science, problem solving, and building practical projects.
 
 <!-- LEETCODE-STATS:START -->
 
-
+![LeetCode Stats](leetcode-stats.svg)
 
 <!-- LEETCODE-STATS:END -->
 
